@@ -1,0 +1,15 @@
+.feature-card{
+    background-color: white;
+    width:215px;
+    height: 200px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px;
+    font-size: .8125em;
+    margin: 10px;
+    color: #747474;
+
+}
+.feature-card img{
+    padding-top: 25px;
+}

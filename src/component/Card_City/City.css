@@ -1,0 +1,28 @@
+.btn{
+    color: white;
+    background-color: #3d83df;
+    height: 20px;
+    width: 107px;
+    border-radius: 5px;
+    padding-top: 6px;
+    text-align: center;
+    font-size: 11px;
+    font-family: inherit;
+}
+.city_description{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    font-family: inherit;
+
+}
+.city{
+    margin-bottom: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.city:hover{     
+    box-shadow: 20px 20px 50px grey;
+}

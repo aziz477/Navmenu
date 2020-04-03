@@ -1,0 +1,10 @@
+.logo{
+    padding-left: 50px;
+
+}
+.logo svg{
+    fill: #747474;
+}
+.logo svg:hover{
+    fill: #00ccb1;
+}
